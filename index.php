@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Fichier PHP</h1>
-    <?php
-        echo "Cette fois, mon PHP est <strong> interprété </strong> et aussi sur GITHUB";
-        ?>
+<?php
+echo "Hello World";
 
-    <p>Nouvelle ligne</p>
-</body>
-</html>
+?>
